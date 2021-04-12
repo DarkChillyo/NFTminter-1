@@ -24,7 +24,7 @@ const Navbar = ({ signerAddress, setContract_1155, setContract_721, setSignerAdd
         </Link>
 
         <Typography variant="h6" className={classes.title}>
-          NFT Minter
+          Chill NFT Minter
         </Typography>
 
         <div className={classes.divider}></div>
